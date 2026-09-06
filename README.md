@@ -51,7 +51,7 @@ elif izbira_strani == "Navodila in informacije":
 # --- STRAN 3: POLITIKA ZASEBNOSTI (Nujno za AdSense!) ---
 elif izbira_strani == "Politika zasebnosti":
     st.title("🔒 Politika zasebnosti (Privacy Policy)")
-    st.markdown(f"""
+    st.markdown(f""" 
     Zadnja posodobitev: September 2026
     
     Na spletni strani **Računanje poti** cenimo vašo zasebnost. Ta dokument opisuje, katere podatke zbiramo in kako jih uporabljamo.
@@ -71,6 +71,5 @@ elif izbira_strani == "O nas & Kontakt":
     Razvita je v okolju Python z uporabo knjižnice Streamlit.
     
     **Kontakt za podporo in vprašanja:**
-    * **E-pošta:** vas-email@domena.com (Zamenjajte s svojim pravim e-naslovom)
-    """)
+    * **E-pošta:** jaka.rak48@gmail.com 
     
